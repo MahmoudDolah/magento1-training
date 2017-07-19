@@ -1,2 +1,7 @@
 var/cache/
 media/catalog/product/cache/
+.vscode
+apache-ant-1.7.1-bin.tar.gz
+apache-ant-1.7.1/
+apache-solr-3.5.0.tgz
+apache-solr-3.5.0/
