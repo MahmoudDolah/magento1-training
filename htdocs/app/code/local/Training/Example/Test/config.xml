@@ -1,0 +1,10 @@
+<?xml version="1.0"?>
+<config>
+	<global>
+		<helpers>
+			<training_example>
+				<class> Training_Example_Helper</class>
+			</training_example>
+		</helpers>
+	</global>
+</config>
